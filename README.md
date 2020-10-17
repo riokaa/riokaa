@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rayiooo/rayiooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**riokaa/riokaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Rayiooo's github stats](https://github-readme-stats.vercel.app/api?username=rayiooo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rayiooo's github stats](https://github-readme-stats.vercel.app/api?username=riokaa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayiooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riokaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Rayiooo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rayiooo&hide=other)](https://github.com/anuraghazra/github-readme-stats)-->
